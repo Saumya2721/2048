@@ -136,8 +136,15 @@ Our modifications address these limitations by refining functionality, robustnes
   - Possibility to implement dynamic difficulty settings or alternate board sizes.
 
 ---
+
+
 ## An overview of how our game works 
 ![Image](https://github.com/user-attachments/assets/4e13de36-486e-4791-87b2-3d204f1d136f)
+
+## How to compile and run the game? Don't fret!! Here's how to do it...
+https://github.com/user-attachments/assets/cb4942b4-ebdc-496c-8477-d5a535db89f2
+
+
 ## 🎉 Future Roadmap
 - **🎨 Graphical User Interface (GUI):**  
   Transition to a GUI for smoother animations and a richer user experience.
