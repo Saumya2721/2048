@@ -136,7 +136,7 @@ Our modifications address these limitations by refining functionality, robustnes
   - Possibility to implement dynamic difficulty settings or alternate board sizes.
 
 ---
-
+![Image](https://github.com/user-attachments/assets/4e13de36-486e-4791-87b2-3d204f1d136f)
 ## 🎉 Future Roadmap
 - **🎨 Graphical User Interface (GUI):**  
   Transition to a GUI for smoother animations and a richer user experience.
