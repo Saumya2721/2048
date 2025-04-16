@@ -165,7 +165,7 @@ The original 2048 game laid a solid foundation with its minimalist design. Our i
 
 ---
 
-**Prepared by [Your Name/Group] — [Date]**
+**Prepared by Syntax Squad**
 
 *Thank you for exploring our enhanced 2048 game project! We welcome your feedback and contributions to further refine this classic game.*
 
